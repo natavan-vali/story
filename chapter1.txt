@@ -1,2 +1,3 @@
 Hello world! This is my new text document.
 Test branch change
+I create new branch named newBranch
